@@ -2,20 +2,6 @@ import java.util.*;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
-/**
- * Find Out:
- *
- * 1. What are all the unique cities where the traders work?
- *
- *
- * 2. Find all traders from Pune and sort them by name.
- *
- * 3. Return a string of all traders’ names sorted alphabetically.
- *
- *
- * 4. Are any traders based in Indore?
- */
-
 class Trader {
     private String name;
     private String city;

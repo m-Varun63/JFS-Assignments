@@ -1,16 +1,6 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
-/**
- * Display the following:
- *
- *         1. Display the fruit names of low calories fruits i.e. calories < 100 sorted in descending order of calories.
- *
- *         2. Display color wise list of fruit names.
- *
- *         3. Display only RED color fruits sorted as per their price in ascending order.
- */
-
 class Fruit {
     private String name;
     private int calories;

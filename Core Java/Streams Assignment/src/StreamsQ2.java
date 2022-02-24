@@ -3,17 +3,6 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-/**
- * Find Out:
- *
- * 1. Find out the newsId which has received maximum comments.
- *
- * 2. Find out how many times the word 'budget' arrived in user comments all news.
- *
- * 3. Find out which user has posted maximum comments.
- *
- * 4. Display commentByUser wise number of comments.
- */
 class News {
     private int newsId;
     private String postedByUser;
