@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "db",
+      "type": "com.microservice.springbootconfig.DbSettings",
+      "sourceType": "com.microservice.springbootconfig.DbSettings"
+    }
+  ],
+  "properties": [
+    {
+      "name": "db.connection",
+      "type": "java.lang.String",
+      "sourceType": "com.microservice.springbootconfig.DbSettings"
+    },
+    {
+      "name": "db.host",
+      "type": "java.lang.String",
+      "sourceType": "com.microservice.springbootconfig.DbSettings"
+    },
+    {
+      "name": "db.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.microservice.springbootconfig.DbSettings"
+    }
+  ],
+  "hints": []
+}
